@@ -1,11 +1,11 @@
 {
   "name": "pomelo-robot",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "private": false,
   "dependencies": {
-    "socket.io": "0.9.13",
-    "socket.io-client": "0.9.11",
-    "underscore": "latest"
+    "socket.io": "~4.8.1",
+    "socket.io-client": "~4.8.1",
+    "underscore": "^1.13.7"
   },
   "readmeFilename": "README.md",
   "gitHead": "d33db82d670b7a5d21c95e15f91548f8a8ba7821",
